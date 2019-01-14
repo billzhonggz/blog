@@ -2,6 +2,8 @@
 
 \*Former\* college student, computer science, transportation, photography, and more.
 
+Hosted here: [2018 Spring CPGU IT Tutorial](it-tutorial/index.md)
+
 ### Blog Posts Index
 
 Sorted by chronological order.

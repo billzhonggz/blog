@@ -8,6 +8,10 @@ Hosted here: [2018 Spring CPGU IT Tutorial](it-tutorial/index.md)
 
 Sorted by chronological order.
 
+#### 2019
+
+* [2019港大MScCS专业笔试面试](2019/2019港大MScCS专业笔试面试.md)
+
 #### 2018
 
 * [CST两三事](2018/CST两三事.md)

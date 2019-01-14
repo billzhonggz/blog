@@ -10,7 +10,7 @@ Sorted by chronological order.
 
 #### 2019
 
-* [2019港大MScCS专业笔试面试](2019/2019港大MScCS专业笔试面试.md)
+* [2019港大MScCS专业笔试面试](2019/港大面试.md)
 
 #### 2018
 
